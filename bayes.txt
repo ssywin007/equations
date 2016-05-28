@@ -1,0 +1,56 @@
+bayes theorem is stated mathematically as the following equation
+where a and b are events and are the probabilities
+the real chance of having the event here the equation
+and here the decoder key to read it chance of
+of any positive result we can simplify the equation to
+is a normalizing constant and helps scale our equation without
+probability of the data conditional on the hypothesis bayes theorem
+in an unfortunate but now unavoidable choice of terminology statisticians
+then we will look at the notation and terminology involved
+in this formula t stands for a theory or hypothesis
+lending money to potential borrowers the formula is as follows
+also called bayes rule
+deck bayes theorem formula the formula is written as
+are the probabilities of a and b without regard to
+bayes theorem to estimate this new probability the formula is
+is the probability of a occurring and is called the
+they show us how to update our knowledge bayes formula
+example suppose math has two section in section there is
+the probability of the hypothesis after getting the evidence is
+many modern machine learning techniques rely on bayes theorem for
+in these instances and so the expressions simplify bayes theorem
+while this is an equation that applies to any probability
+evidence in this case the formula can be written as
+this relates the probability of the hypothesis before getting the
+then the posterior probability can be calculated using bayes theorem
+since every king is also a face card since there
+first is computed using the simpler version of bayes theorem
+to find we must determine the prior probability that the
+boy this is equal to therefore the desired probability is
+for a similarly paradoxical problem see the monty hall problem
+event that both children are boys we want to find
+we can easily see that we also note that and
+true got that the basic mathematical formula takes this form
+with p standing for probability b for belief and e
+has already occurred the following formula was provided for finding
+in addition to the above formal rule the textbook also
+event a given that event b has subsequently occurred is
+that a formidable expression but we will simplify its calculation
+c in place of b we get the following result
+before we knew that the survey subject smoked a cigar
+selection of elts from the three manufacturers a b c
+intuitive bayes theorem now let find by using a table
+but by symmetry we can also get it follows that
+which is the so called bayes rule it is common
+hence we can state bayes rule in another way as
+see an example of bayes theorem
+this is actually what bayes theorem is about
+most often however the theorem appears in a somewhat different
+often however the theorem appears in a somewhat different form
+where b is an event complementary to b the universal
+and exhaustive events events that satisfy bayes theorem states that
+where the sum is taken over all i we shall
+any event from the same sample space such that then
+note invoking the fact that bayes theorem can also be
+the fact that bayes theorem can also be expressed as
+unless you are a world class statistician bayes theorem as
